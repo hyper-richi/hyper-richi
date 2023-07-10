@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
--   :mailbox: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
+-   :mailbox: [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
 
 ---
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large) ![codewars](https://www.codewars.com/users/kamalov.job/badges/large)
+![codewars](https://www.codewars.com/users/kamalov.job/badges/large)
 
 ### ⚙️ GitHub статистика:
 

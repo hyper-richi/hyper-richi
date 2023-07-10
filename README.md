@@ -12,7 +12,8 @@
 
 ### 🤝 Социальные сети:
 
-[![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
+....
+<!-- [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev) -->
 
 ---
 

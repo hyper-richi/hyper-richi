@@ -10,17 +10,11 @@ I'm Eldar, Frontend developer from Russia
 
 Взаимодействие с backend через RESTful API, WebSocket.
 
--   [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
-
 ---
 
 ### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://t.me/EldarDev" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
+-   [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
 
 ---
 

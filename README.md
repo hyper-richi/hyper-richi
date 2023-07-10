@@ -1,21 +1,6 @@
-### Hi there 👋
+# Welcome to my page!
 
-<!--
-**kamalov-eldar/kamalov-eldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Привет, это страница Эльдара!
+I'm Eldar, Frontend developer from Russia
 
 ---
 
@@ -25,11 +10,7 @@ Here are some ideas to get you started:
 
 Взаимодействие с backend через RESTful API, WebSocket.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
--   :mailbox: [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
+-   [![Telegram Badge](https://img.shields.io/badge/-EldarDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EldarDev)
 
 ---
 
@@ -43,9 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Технологии:
-
-### Frontend
+### Frontend developer skills
 
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -63,14 +42,6 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---

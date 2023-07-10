@@ -1,6 +1,4 @@
-# Welcome to my page!
-
-I'm Eldar, Frontend developer from Russia
+# Привет, я Эльдар Frontend-разработчик!
 
 ---
 

@@ -54,14 +54,6 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center;" markdown="block">
-
--   [x] One
--   [x] Two
--   [ ] Three
-
-</div>
-
 <div class="container">
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
@@ -69,18 +61,16 @@
 </div>
 
 <style>
-.container {
-  display: flex;
-  align-items: center;
-}
-
-.element {
-  margin: 10px;
-  padding: 10px;
-  background-color: #eee;
-  border: 1px solid #ccc;
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
 }
 </style>
+
+<div class="green">
+    Markdown css styles
+</div>
 
 ---
 

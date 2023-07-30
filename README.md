@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start;" >
+<div style="display: flex; flex-direction: row-reverse" >
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 

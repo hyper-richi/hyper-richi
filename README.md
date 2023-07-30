@@ -57,19 +57,14 @@
 <div class="container">
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://profilinator.rishav.dev/skills-assets/figma-icon.svg)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
 
-</div>
-
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
 </div>
 
 ---

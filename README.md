@@ -35,7 +35,7 @@
     <td valign="top"><a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 </td>
     <td valign="top">
-    ![MobX](https://a11ybadges.com/badge?logo=mobx)
+    <img style="margin: 10px" src="https://a11ybadges.com/badge?logo=mobx" alt="MobX" height="50" />
 </td>
     <td valign="top"><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </td>
@@ -56,19 +56,7 @@
 
 <div style="display: flex; align-items: flex-start;" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![MobX](https://a11ybadges.com/badge?logo=mobx)
 
 </div>
 

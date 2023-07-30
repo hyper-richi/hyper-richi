@@ -54,11 +54,25 @@
   </tr>
 </table>
 
-<div style="display: flex; flex-direction: row-reverse" >
+<div class="container">
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 
 </div>
+
+<style>
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.element {
+  margin: 10px;
+  padding: 10px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+</style>
 
 ---
 

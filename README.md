@@ -58,6 +58,8 @@
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 ![MobX](https://profilinator.rishav.dev/skills-assets/figma-icon.svg)
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)

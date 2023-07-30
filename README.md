@@ -20,7 +20,7 @@
 
 ### Frontend developer skills:
 
-<table cellpadding="0" >
+<table cellpadding="0" cellspacing="0" border="0" >
   <tr style="padding: 0">
     <td valign="top"><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 </td>

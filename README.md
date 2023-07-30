@@ -54,6 +54,14 @@
   </tr>
 </table>
 
+<div style="display: flex; justify-content: center;" markdown="block">
+
+-   [x] One
+-   [x] Two
+-   [ ] Three
+
+</div>
+
 <div class="container">
 
 ![MobX](https://a11ybadges.com/badge?logo=mobx)

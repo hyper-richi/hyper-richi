@@ -5,7 +5,7 @@
 ### :man_technologist: Обо мне:
 
 Мой стек: React, Redux Toolkit, Mobx, Material-UI, Bootstrap, RTK Query.
-
+Знаком: webpack, unit тесты, storybook, UIKit библиотеки.
 Взаимодействие с backend через RESTful API, WebSocket.
 
 ---

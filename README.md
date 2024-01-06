@@ -4,9 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Мой стек: React, Redux Toolkit, Mobx, Material-UI, Bootstrap, RTK Query.
-
-Знаком: webpack, unit тесты, storybook, UIKit библиотеки.
+Мой стек: Next.js, React, Redux Toolkit, Mobx, RTK Query, webpack, unit тесты, storybook, UIKit библиотеки.
 
 Взаимодействие с backend через RESTful API, WebSocket.
 
@@ -38,7 +36,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
 <img style="margin: 10px" src="https://a11ybadges.com/badge?logo=storybook" alt="Storybook" width="80" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-
 </div>
 
 ---

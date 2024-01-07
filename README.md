@@ -8,7 +8,9 @@
 
 Взаимодействие с backend через RESTful API, WebSocket.
 
-### Посмотреть мой свежий проект job-next.vercel.app
+### Посмотреть свежий проект на стеке: Next.js, Typescript
+
+- https://job-next.vercel.app
 
 ---
 

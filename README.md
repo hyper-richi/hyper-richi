@@ -8,14 +8,6 @@
 
 Взаимодействие с backend через RESTful API, WebSocket.
 
-### Посмотреть свежий проект на стеке: Next.js, Typescript
-
--   https://job-next.vercel.app
-
-<img  src="Lighthouse.png" alt="Lighthouse"  />
-
----
-
 ### 🤝 Социальные сети:
 
 ....

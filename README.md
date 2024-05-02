@@ -1,6 +1,6 @@
-[Header](https://github.com/kamalov-eldar/kamalov-eldar/blob/main/assets/kamalov-eldar.png)
+![Header](https://github.com/kamalov-eldar/kamalov-eldar/blob/main/assets/kamalov-eldar.png)
 
----
+<img  src="kamalov-eldar.png" alt="kamalov-eldar"  />
 
 ### :man_technologist: Обо мне:
 

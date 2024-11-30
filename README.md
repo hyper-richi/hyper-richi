@@ -38,25 +38,31 @@
 
 ---
 
-|                                                                                    |
-| ----------------------------------------------------------------------------------------- |
-| ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)       |
-| ![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)         |
-| ![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg)      |
-| ![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg)      |
-| ![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg)       |
-| ![NextJS](https://profilinator.rishav.dev/skills-assets/nextjs.png)                       |
-| ![Redux](https://profilinator.rishav.dev/skills-assets/redux-original.svg)                |
-| ![MobX](https://a11ybadges.com/badge?logo=mobx)                                           |
-| ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)                    |
-| ![Material UI](https://profilinator.rishav.dev/skills-assets/mui.png)                     |
-| ![Tailwind CSS](https://profilinator.rishav.dev/skills-assets/tailwindcss.svg)            |
-| ![Webpack](https://profilinator.rishav.dev/skills-assets/webpack-original.svg)            |
-| ![Styled Components](https://profilinator.rishav.dev/skills-assets/styled-components.png) |
-| ![Sass](https://profilinator.rishav.dev/skills-assets/sass-original.svg)                  |
-| ![Jest](https://profilinator.rishav.dev/skills-assets/jest.svg)                           |
-| ![Storybook](https://a11ybadges.com/badge?logo=storybook)                                 |
-| ![Figma](https://profilinator.rishav.dev/skills-assets/figma-icon.svg)                    |
+## Навыки и технологии
+
+### 🛠️ Основные технологии
+
+| HTML5 | CSS3 | JavaScript | TypeScript | Git |
+| --- | --- | --- | --- | --- |
+| <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50"> |
+
+### 📚 Фреймворки и библиотеки
+
+| React | NextJS | Redux | MobX | Storybook |
+| --- | --- | --- | --- | --- |
+| <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" height="50"> | <img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX" width="50" height="50"> | <img src="https://a11ybadges.com/badge?logo=storybook" alt="Storybook" width="50" height="50"> |
+
+### 🎨 Стилизация
+
+| Material UI | Tailwind CSS | Styled Components | Sass |
+| --- | --- | --- | --- |
+| <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50"> |
+
+### 🧪 Инструменты разработки
+
+| Webpack | Jest | Figma |
+| --- | --- | --- |
+| <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" height="50"> |
 
 ### 💻 Codewars:
 

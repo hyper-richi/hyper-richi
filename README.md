@@ -48,9 +48,9 @@
 
 ### 📚 Фреймворки и библиотеки
 
-| React | NextJS | Redux | MobX | Storybook | Storybook |
-| --- | --- | --- | --- | --- | --- |
-| <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" height="50"> | <img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX" width="50" height="50"> | <img src="https://a11ybadges.com/badge?logo=storybook" alt="Storybook" width="50" height="50"> | ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+| React | NextJS | Redux | MobX | Storybook |
+| --- | --- | --- | --- | --- |
+| <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="50" height="50"> | <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" height="50"> | <img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX" width="50" height="50"> | ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### 🎨 Стилизация
 

@@ -38,6 +38,26 @@
 
 ---
 
+| Технология        | Логотип                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| HTML5             | ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg) |
+| CSS3              | ![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg) |
+| JavaScript        | ![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg) |
+| TypeScript        | ![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg) |
+| React             | ![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg) |
+| NextJS            | ![NextJS](https://profilinator.rishav.dev/skills-assets/nextjs.png) |
+| Redux             | ![Redux](https://profilinator.rishav.dev/skills-assets/redux-original.svg) |
+| MobX              | ![MobX](https://a11ybadges.com/badge?logo=mobx)                       |
+| Git               | ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg) |
+| Material UI       | ![Material UI](https://profilinator.rishav.dev/skills-assets/mui.png) |
+| Tailwind CSS      | ![Tailwind CSS](https://profilinator.rishav.dev/skills-assets/tailwindcss.svg) |
+| Webpack           | ![Webpack](https://profilinator.rishav.dev/skills-assets/webpack-original.svg) |
+| Styled Components  | ![Styled Components](https://profilinator.rishav.dev/skills-assets/styled-components.png) |
+| Sass              | ![Sass](https://profilinator.rishav.dev/skills-assets/sass-original.svg) |
+| Jest              | ![Jest](https://profilinator.rishav.dev/skills-assets/jest.svg)       |
+| Storybook         | ![Storybook](https://a11ybadges.com/badge?logo=storybook)             |
+| Figma             | ![Figma](https://profilinator.rishav.dev/skills-assets/figma-icon.svg) |
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/kamalov.job/badges/large)

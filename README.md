@@ -66,15 +66,49 @@
 
 ### 🎨 Стилизация
 
-| Material UI | Tailwind CSS | Styled Components | Sass |
-| --- | --- | --- | --- |
-| <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50"></div> |
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>Material UI</td>
+    <td>Tailwind CSS</td>
+    <td>Styled Components</td>
+    <td>Sass</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="50" height="50">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="50" height="50">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50">
+    </td>
+  </tr>
+</table>
 
 ### 🧪 Инструменты разработки
 
-| Webpack | Jest | Figma |
-| --- | --- | --- |
-| <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" height="50"></div> |
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>Webpack</td>
+    <td>Jest</td>
+    <td>Figma</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" height="50">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" height="50">
+    </td>
+  </tr>
+</table>
 
 ### 💻 Codewars:
 

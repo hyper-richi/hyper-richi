@@ -14,7 +14,6 @@
     <td align="center">CSS3</td>
     <td align="center">JavaScript</td>
     <td align="center">TypeScript</td>
-    <td align="center">Git</td>
   </tr>
   <tr>
     <td align="center">
@@ -29,9 +28,7 @@
     <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50">
     </td>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50">
-    </td>
+
   </tr>
 </table>
 
@@ -43,7 +40,6 @@
     <td align="center">NextJS</td>
     <td align="center">Redux</td>
     <td align="center">MobX</td>
-    <td align="center">Storybook</td>
   </tr>
   <tr>
     <td align="center">
@@ -58,9 +54,7 @@
     <td align="center">
       <img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX">
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
-    </td>
+
   </tr>
 </table>
 
@@ -68,22 +62,22 @@
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td>Material UI</td>
-    <td>Tailwind CSS</td>
-    <td>Styled Components</td>
-    <td>Sass</td>
+    <td align="center">Material UI</td>
+    <td align="center">Tailwind CSS</td>
+    <td align="center">Styled Components</td>
+    <td align="center">Sass</td>
   </tr>
   <tr>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="50" height="50">
     </td>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50">
     </td>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="50" height="50">
     </td>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50">
     </td>
   </tr>
@@ -93,19 +87,36 @@
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td>Webpack</td>
-    <td>Jest</td>
-    <td>Figma</td>
+    <td align="center">Webpack</td>
+    <td align="center">Figma</td>
+    <td align="center">Git</td>
   </tr>
   <tr>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50">
     </td>
-    <td style="text-align: center;">
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" height="50">
+    </td>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50">
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Тестирование
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td align="center">Jest</td>
+    <td align="center">Storybook</td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" height="50">
     </td>
-    <td style="text-align: center;">
-      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" height="50">
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
     </td>
   </tr>
 </table>

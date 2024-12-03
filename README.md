@@ -8,10 +8,6 @@
 
 ### 🛠️ Основные технологии
 
-| HTML5 | CSS3 | JavaScript | TypeScript | Git |
-| --- | --- | --- | --- | --- |
-| <div textalign="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50"></div> | <div textalign="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50"></div> |
-
 <table width='100%'>
 <tr>
     <td>HTML5</td>
@@ -41,9 +37,32 @@
 
 ### 📚 Фреймворки и библиотеки
 
-| React | NextJS | Redux | MobX | Storybook |
-| --- | --- | --- | --- | --- |
-| <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX" ></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" ></div> |
+<table>
+  <tr>
+    <td>React</td>
+    <td>NextJS</td>
+    <td>Redux</td>
+    <td>MobX</td>
+    <td>Storybook</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50">
+    </td>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="50" height="50">
+    </td>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" height="50">
+    </td>
+    <td align="center">
+      <img src="https://a11ybadges.com/badge?logo=mobx" alt="MobX">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Стилизация
 

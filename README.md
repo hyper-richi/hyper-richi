@@ -10,11 +10,11 @@
 
 <table width='100%'>
 <tr>
-    <td>HTML5</td>
-    <td>CSS3</td>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
-    <td>Git</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">JavaScript</td>
+    <td align="center">TypeScript</td>
+    <td align="center">Git</td>
   </tr>
   <tr>
     <td align="center">
@@ -39,11 +39,11 @@
 
 <table>
   <tr>
-    <td>React</td>
-    <td>NextJS</td>
-    <td>Redux</td>
-    <td>MobX</td>
-    <td>Storybook</td>
+    <td align="center">React</td>
+    <td align="center">NextJS</td>
+    <td align="center">Redux</td>
+    <td align="center">MobX</td>
+    <td align="center">Storybook</td>
   </tr>
   <tr>
     <td align="center">

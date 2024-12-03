@@ -21,19 +21,19 @@
     <td>Git</td>
   </tr>
   <tr>
-    <td align="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
     </td>
-    <td align="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
     </td>
-    <td align="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50">
     </td>
-    <td align="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50">
     </td>
-    <td align="center" style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50">
     </td>
   </tr>

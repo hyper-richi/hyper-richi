@@ -12,6 +12,26 @@
 | --- | --- | --- | --- | --- |
 | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50"></div> | <div style="text-align: center; display: flex; justify-content: center; vertical-align: middle;"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50"></div> |
 
+<table width='100%'>
+  <tr>
+    <td style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
+    </td>
+    <td style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
+    </td>
+    <td style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50">
+    </td>
+    <td style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50">
+    </td>
+    <td style="text-align: center; display: flex; justify-content: center; vertical-align: middle;">
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50">
+    </td>
+  </tr>
+</table>
+
 ### 📚 Фреймворки и библиотеки
 
 | React | NextJS | Redux | MobX | Storybook |

@@ -128,7 +128,7 @@
 <table>
    <tr>  
      <td align="center">
-         <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyper-richi&theme=solarized_dark" />
+         <img height="195px" align="right" alt="comit stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyper-richi&theme=dark" />
      </td>
       <td align="center">
        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyper-richi&layout=compact&theme=vision-friendly-dark" />

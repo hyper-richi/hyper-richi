@@ -112,7 +112,7 @@
   <tr>
     <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" height="50">
-    </td>
+    </td>       
     <td align="center">
       <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
     </td>
@@ -123,12 +123,18 @@
 
 ![codewars](https://www.codewars.com/users/hyper-richi/badges/large)
 
-### ⚙️ GitHub статистика:
+### :fire: GitHub статистика:
 
 <table>
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=hyper-richi&theme=dark" alt="webDev's Github stats" />
+    </td>
+       <td align="center">
+          [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyper-richi)](https://git.io/streak-stats)
+        </td>
+    <td align="center">
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hyper-richi&hide_border=true)](https://git.io/streak-stats)
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyper-richi&layout=compact&theme=vision-friendly-dark" />

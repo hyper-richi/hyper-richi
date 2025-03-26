@@ -1,5 +1,3 @@
-<img  src="kamalov-eldar.png" alt="kamalov-eldar"  />
-
 ### Обо мне:
 
 Мой стек: React, Next.js, Redux Toolkit, Mobx, RTK Query, webpack, unit тесты, storybook, UIKit библиотеки.
@@ -138,4 +136,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kamalov-eldar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hyper-richi)
